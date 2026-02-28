@@ -1,0 +1,14 @@
+# IDE / editor
+.cursor/
+.vscode/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs e temporários
+*.log
+.env
+.env.local
